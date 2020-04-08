@@ -1,6 +1,6 @@
 # Wrapping Functions in JavaScript
 
-The video for this lesson is available here:
+The video for this lesson is available here: https://www.chainshot.com/article/wrapping-video
 
 ## Running the Tests
 
