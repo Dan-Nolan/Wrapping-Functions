@@ -29,22 +29,4 @@ function wrap(fn) {
   }
 }
 
-module.exports = [first, second, third].map(wrap)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/**/
+module.exports = [first, second, third].map(wrap);
